@@ -9,7 +9,6 @@ class App extends Component {
       return (
     <div>
       <AppBar />
-      <img src="https://1000logos.net/wp-content/uploads/2017/07/Font-NPR-Logo.jpg" />
       <h1>Listen Live to NPR</h1>
       <p>Click on the live feed to listen to all NPR programs.</p>
       <h2>Now Playing</h2>
